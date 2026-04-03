@@ -1,7 +1,7 @@
 # Assignment 1 — Simulated Annealing: Exam Timetable Scheduling
 ## Observation Report
 
-**Student Name  :** __K.Abhinay__________  
+**Student Name  :** __Manikanta.A__________  
 **Student ID    :** _____2310040074______ 
 **Date Submitted:** _______03/04/2026____ 
 
